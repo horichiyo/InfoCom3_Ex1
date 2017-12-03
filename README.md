@@ -1,16 +1,13 @@
 # InfoCom3_Ex1
 
 ## caesarCipher.py
-
 ### シーザー暗号
  - 参考URL：https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E6%9A%97%E5%8F%B7
 ### 機能
  - 英文のテキストを順方向に3文字ずらします。
  - Pythonバージョンです。
 
----
-
-## Crypt
+## C#のやつ
 ### シーザー暗号
  - 参考URL：https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E6%9A%97%E5%8F%B7
 ### DES暗号
